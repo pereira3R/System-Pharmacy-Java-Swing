@@ -1,2 +1,4 @@
-# Pharmacy-Part2
-Part 2 Algorithm 3
+# System Pharmacy [Part 2]
+- Letizia Manuela
+- Anthony Ricardo Rodrigues Rezende
+- Vinicius Padilha Vieira
