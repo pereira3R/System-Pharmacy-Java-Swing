@@ -32,8 +32,8 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Navigate to the project directory
-```cd
- Your-Java-Swing-Project
+  ```cd
+   Your-Java-Swing-Project
    ```
 3. Set up the MySQL database
    ```sh
