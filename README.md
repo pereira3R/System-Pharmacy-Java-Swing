@@ -3,7 +3,7 @@
 Project started at the beginning of 2023, more or less at the end of the semester, done in just 2 weeks.
 
 ## Overview
-The project is nothing more than a system made with Java using Java Swing, JDBC and MySQL to meet the requirements for the second test of Algorithms 3. Design pattern models were used in the project, such as DAO, abstract factory and singlenton.
+The project is nothing more than a system made with Java using Java Swing, JDBC and MySQL to meet the requirements for the second test of Algorithms 3. Design pattern models were used in the project, such as DAO, Abstract Factory and Singlenton.
 
 ## Technologies Used
 
