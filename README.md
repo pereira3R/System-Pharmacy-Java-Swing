@@ -32,14 +32,15 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 
 | Anthony Ricardo Rodrigues Rezende | Alan Bruno Moraes Costa |
 | --- | --- |
-| <img src="./ImagesMembers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | <img src="./ImagesMembers/alan.png" alt="Alan's Photo" width="100"/> |
+| <img src="./imageDevelopers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | <img src="./imageDevelopers/letizia.jpeg" alt="Letizia's Photo" width="100"/> | <img src="./imageDevelopers/vinicius.jpeg" alt="Vinícius's Photo" width="100"/> |
 
 - **Email:** anthony_rodriguespereira@outlook.com
 - **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
   <br>
-- **Email:** alan_bruno@example.com
-- **LinkedIn:** [Alan's LinkedIn](https://www.linkedin.com/in/alan-bruno-moraes)
-
+- **Email:** letizia.ccufmt@gmail.com
+- **LinkedIn:** [Letizia's LinkedIn](https://www.linkedin.com/in/alan-bruno-moraes](https://www.linkedin.com/in/let%C3%ADzia-manuella-computerscience/)
+- **Email:** viniciuspadilhavieira@hotmail.com
+- **LinkedIn:** [Letizia's LinkedIn]([https://www.linkedin.com/in/alan-bruno-moraes](https://www.linkedin.com/in/let%C3%ADzia-manuella-computerscience/](https://www.linkedin.com/in/vin%C3%ADcius-vieira-2918a1236?trk=contact-info))
 
 ## Acknowledgments
 Useful resources that we would like to give credit for.
