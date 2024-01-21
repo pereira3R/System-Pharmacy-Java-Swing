@@ -51,7 +51,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
-<strong> Project Developer Members: </strong> We are Computer Science students at the Federal University of Mato Grosso
+<strong> Project Developer Members: </strong> We are Computer Science students at the Federal University of Mato Grosso - Class of 2022.
 
 | Anthony Ricardo Rodrigues Rezende | Letízia Manuella Serqueira Eugênio | Vinícius Padilha Vieira|
 | --- | --- | --- |
