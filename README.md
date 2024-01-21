@@ -31,18 +31,22 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Navigate to the project directory
+```cd
+ Your-Java-Swing-Project
+   ```
+3. Set up the MySQL database
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+4. Build the project
+   ```javac
+    -cp .;path/to/mysql-connector-java.jar YourMainClass.java
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+5. Run the project
+   ```java
+    -cp .;path/to/mysql-connector-java.jar YourMainClass
+
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
