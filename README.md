@@ -30,7 +30,7 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso
 
-| Anthony Ricardo Rodrigues Rezende | Alan Bruno Moraes Costa |
+| Anthony Ricardo Rodrigues Rezende | Letízia Manuella | Vinícius Padilha
 | --- | --- |
 | <img src="./imageDevelopers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | <img src="./imageDevelopers/letizia.jpeg" alt="Letizia's Photo" width="100"/> | <img src="./imageDevelopers/vinicius.jpeg" alt="Vinícius's Photo" width="100"/> |
 
