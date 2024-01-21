@@ -70,9 +70,9 @@ This is an example of how to list things you need to use the software and how to
 ## Acknowledgments
 Useful resources that we would like to give credit for.
 
-- CSS Web3School [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
-- JS Web3School [https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
-- Bootstrap [https://getbootstrap.com/](https://getbootstrap.com/)
+- IC UFMT [https://www.ic.ufmt.br/](https://www.ic.ufmt.br/)
+- Java POO [https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/](https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/)
+- Professor Crenilson - Java Swing [https://www.youtube.com/watch?v=UW-xUpCIBjk&list=PLwH4Cv_WLhLbc4H-aOh3xFywPGxhaso_b](https://www.youtube.com/watch?v=UW-xUpCIBjk&list=PLwH4Cv_WLhLbc4H-aOh3xFywPGxhaso_b)
 
 ##
 
