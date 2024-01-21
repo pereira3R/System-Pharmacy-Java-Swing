@@ -6,7 +6,7 @@
 Project started and completed in 2023, prepared in less than 1 week. <strong> To view the project go to: </strong> https://pereira3r.github.io/LandingPage-GroupSearchGPT/
 
 ## Overview
-The project is nothing more than a landing page that was requested by a research and extension group at the Federal University of Mato Grosso. The idea was basically to do something to show the focus of the research group, in addition to presenting its members and what they do.
+The project is nothing more than a system made with Java using Java Swing, JDBC and MySQL to meet the requirements for the second test of Algorithms 3.
 
 ## Technologies Used
 
