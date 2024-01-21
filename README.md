@@ -50,6 +50,7 @@ This is an example of how to list things you need to use the software and how to
   ```java
    -cp .;path/to/mysql-connector-java.jar YourMainClass
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso
