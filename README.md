@@ -1,9 +1,6 @@
-# System Pharmacy [Part 2]
+# System Pharmacy 
 
-
-# Project-GroupSearchGPT
-
-Project started and completed in 2023, prepared in less than 1 week. <strong> To view the project go to: </strong> https://pereira3r.github.io/LandingPage-GroupSearchGPT/
+Project started at the beginning of 2023, more or less at the end of the semester, done in just 2 weeks.
 
 ## Overview
 The project is nothing more than a system made with Java using Java Swing, JDBC and MySQL to meet the requirements for the second test of Algorithms 3.
@@ -19,12 +16,40 @@ The technologies used to develop the project are very simple.
   <img align="center" alt="Java Swing" height="38" width="100" src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-## Usage
+<!-- GETTING STARTED -->
+## Getting Started
 
-To use the project, simply use the VsCode live server in "index.html" we didn't do the backend.
-<div style="display: block"><br>
-<img align="center" alt="Live Server" height="38" width="120" src="https://img.shields.io/badge/Live%20Server-323330?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
+This is an example of how you may give instructions on setting up your Java project with Java Swing, MySQL, and JDBC locally. To get a local copy up and running, follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* Java Development Kit (JDK)
+  - Download and install the latest JDK from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or [OpenJDK](https://adoptopenjdk.net/).
+* MySQL Database
+  - Install and set up a MySQL database. You can download MySQL from [https://dev.mysql.com/downloads/](https://dev.mysql.com/downloads/).
+
+### Installation
+
+1. Clone the repo
+  ```sh
+     git clone https://github.com/your_username_/Your-Java-Swing-Project.git
+    ```
+
+2. Navigate to the project directory
+  ```cd
+   Your-Java-Swing-Project
+    ```
+
+3. Set up the MySQL database
+  ```javac
+   -cp .;path/to/mysql-connector-java.jar YourMainClass.java
+    ```
+
+4. Build the project
+  ```java
+   -cp .;path/to/mysql-connector-java.jar YourMainClass
+    ```
 
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso
